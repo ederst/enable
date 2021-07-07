@@ -1051,6 +1051,7 @@ acetify
 acetifying
 acetin
 acetins
+acetoacetate
 acetone
 acetones
 acetonic
