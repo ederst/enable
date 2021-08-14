@@ -2492,6 +2492,8 @@ afreets
 afresh
 afrit
 afrits
+afro
+afros
 after
 afterbirth
 afterbirths
@@ -29837,6 +29839,8 @@ conkers
 conking
 conks
 conky
+conman
+conmen
 conn
 connate
 connately
@@ -64751,6 +64755,7 @@ halakic
 halakist
 halakists
 halakoth
+halal
 halala
 halalah
 halalahs
@@ -88122,9 +88127,11 @@ membraned
 membranes
 membranous
 membranously
+meme
 memento
 mementoes
 mementos
+memes
 memo
 memoir
 memoirist
@@ -113809,6 +113816,8 @@ pralltriller
 pralltrillers
 pram
 prams
+prana
+pranas
 prance
 pranced
 prancer
@@ -118217,6 +118226,8 @@ puppyhoods
 puppyish
 puppylike
 pups
+pupusa
+pupusas
 purana
 puranas
 puranic
@@ -131636,6 +131647,8 @@ schlockmeister
 schlockmeisters
 schlocks
 schlocky
+schlub
+schlubs
 schlump
 schlumped
 schlumping
@@ -140049,6 +140062,7 @@ spalling
 spalls
 spalpeen
 spalpeens
+spam
 span
 spanakopita
 spanakopitas
@@ -156972,6 +156986,7 @@ tzitzis
 tzitzit
 tzitzith
 tzuris
+uber
 ubieties
 ubiety
 ubique
@@ -163828,6 +163843,7 @@ virologies
 virologist
 virologists
 virology
+virome
 viroses
 virosis
 virtu
