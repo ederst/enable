@@ -24552,6 +24552,7 @@ choicenesses
 choicer
 choices
 choicest
+choil
 choir
 choirboy
 choirboys
@@ -30651,6 +30652,7 @@ conundrum
 conundrums
 conurbation
 conurbations
+conure
 conus
 convalesce
 convalesced
@@ -78928,6 +78930,7 @@ kefirs
 kefs
 kegeler
 kegelers
+kegging
 kegler
 keglers
 kegling
@@ -150854,6 +150857,7 @@ text
 textbook
 textbookish
 textbooks
+texted
 textile
 textiles
 textless
