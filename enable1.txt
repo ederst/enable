@@ -1107,6 +1107,7 @@ aching
 achingly
 achiote
 achiotes
+achiral
 achlorhydria
 achlorhydrias
 achlorhydric
@@ -6607,6 +6608,7 @@ antonymies
 antonymous
 antonyms
 antonymy
+antpitta
 antra
 antral
 antre
@@ -12564,6 +12566,8 @@ beefed
 beefier
 beefiest
 beefily
+beefiness
+beefinesses
 beefing
 beefless
 beefs
@@ -84333,6 +84337,7 @@ losingly
 losings
 loss
 losses
+lossless
 lossy
 lost
 lostness
@@ -143288,6 +143293,7 @@ stodginess
 stodginesses
 stodging
 stodgy
+stog
 stogey
 stogeys
 stogie
@@ -149789,6 +149795,7 @@ tegmentum
 tegmina
 tegminal
 tegs
+tegu
 tegua
 teguas
 tegular
