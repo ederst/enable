@@ -140634,7 +140634,6 @@ sphygmomanometer
 sphygmomanometry
 sphygmus
 sphygmuses
-spic
 spica
 spicae
 spicas
@@ -140659,9 +140658,6 @@ spicily
 spiciness
 spicinesses
 spicing
-spick
-spicks
-spics
 spicula
 spiculae
 spicular
@@ -140710,7 +140706,6 @@ spiffs
 spiffy
 spigot
 spigots
-spik
 spike
 spiked
 spikelet
@@ -140728,7 +140723,6 @@ spikily
 spikiness
 spikinesses
 spiking
-spiks
 spiky
 spile
 spiled
