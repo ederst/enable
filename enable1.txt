@@ -6753,6 +6753,10 @@ apheses
 aphesis
 aphetic
 aphetically
+aphetize
+aphetized
+aphetizes
+aphetizing
 aphid
 aphides
 aphidian
@@ -11278,7 +11282,6 @@ barbarizing
 barbarous
 barbarously
 barbarousness
-barbarousnesses
 barbasco
 barbascoes
 barbascos
@@ -15443,6 +15446,10 @@ blockish
 blocks
 blocky
 blocs
+blog
+blogged
+blogging
+blogs
 bloke
 blokes
 blond
@@ -24185,6 +24192,7 @@ chiliasts
 chilidog
 chilidogs
 chilies
+chilis
 chill
 chilled
 chiller
@@ -25119,6 +25127,8 @@ churr
 churred
 churrigueresque
 churring
+churro
+churros
 churrs
 chute
 chuted
@@ -43680,6 +43690,8 @@ doughtiness
 doughtinesses
 doughty
 doughy
+doula
+doulas
 doum
 douma
 doumas
@@ -54199,7 +54211,10 @@ fiftyish
 figeater
 figeaters
 figged
+figgier
+figgiest
 figging
+figgy
 fight
 fighter
 fighters
@@ -57775,6 +57790,7 @@ frenzies
 frenzily
 frenzy
 frenzying
+freon
 frequence
 frequences
 frequencies
@@ -58448,6 +58464,7 @@ fumarases
 fumarate
 fumarates
 fumaric
+fumarium
 fumarole
 fumaroles
 fumarolic
@@ -63413,6 +63430,8 @@ groin
 groined
 groining
 groins
+grok
+groks
 grommet
 grommets
 gromwell
@@ -63924,6 +63943,7 @@ guiltiest
 guiltily
 guiltiness
 guiltinesses
+guilting
 guiltless
 guiltlessly
 guiltlessness
@@ -75449,6 +75469,8 @@ interned
 internee
 internees
 internes
+internet
+internets
 interneuron
 interneuronal
 interneurons
@@ -81781,6 +81803,8 @@ lecturing
 lecythi
 lecythis
 lecythus
+lede
+ledes
 lederhosen
 ledge
 ledger
@@ -84433,6 +84457,8 @@ loutishly
 loutishness
 loutishnesses
 louts
+louvar
+louvars
 louver
 louvered
 louvers
@@ -84991,6 +85017,8 @@ lutist
 lutists
 lutz
 lutzes
+luvar
+luvars
 luvs
 luxate
 luxated
@@ -90298,6 +90326,7 @@ mirexes
 miri
 mirier
 miriest
+mirin
 miriness
 mirinesses
 miring
@@ -92411,6 +92440,8 @@ monopolizers
 monopolizes
 monopolizing
 monopoly
+monoprint
+monoprints
 monopropellant
 monopropellants
 monopsonies
@@ -98124,6 +98155,8 @@ noodle
 noodled
 noodles
 noodling
+noogie
+noogies
 nook
 nookies
 nooklike
@@ -99946,6 +99979,7 @@ olivinic
 olivinitic
 olla
 ollas
+ollie
 ologies
 ologist
 ologists
@@ -107700,6 +107734,7 @@ peperomia
 peperomias
 peperoni
 peperonis
+pepita
 pepla
 peplos
 peploses
@@ -110855,6 +110890,7 @@ pizazzy
 pizza
 pizzalike
 pizzas
+pizzazz
 pizzeria
 pizzerias
 pizzicati
@@ -112800,6 +112836,7 @@ poop
 pooped
 pooping
 poops
+poopy
 poor
 poorer
 poorest
@@ -118658,6 +118695,7 @@ pyrite
 pyrites
 pyritic
 pyritous
+pyro
 pyrocatechol
 pyrocatechols
 pyroclastic
@@ -119633,6 +119671,8 @@ rabietic
 raccoon
 raccoons
 race
+racecar
+racecars
 racecourse
 racecourses
 raced
@@ -119968,6 +120008,7 @@ raged
 ragee
 ragees
 rages
+ragg
 ragged
 raggeder
 raggedest
@@ -120160,6 +120201,7 @@ ramee
 ramees
 ramekin
 ramekins
+ramen
 ramenta
 ramentum
 ramequin
@@ -128902,6 +128944,7 @@ roughhouse
 roughhoused
 roughhouses
 roughhousing
+roughies
 roughing
 roughish
 roughleg
@@ -128915,6 +128958,7 @@ roughrider
 roughriders
 roughs
 roughshod
+roughy
 rouging
 rouille
 rouilles
@@ -140046,6 +140090,7 @@ spalls
 spalpeen
 spalpeens
 spam
+spams
 span
 spanakopita
 spanakopitas
@@ -142725,9 +142770,12 @@ stenotyping
 stenotypist
 stenotypists
 stenotypy
+stent
+stenting
 stentor
 stentorian
 stentors
+stents
 step
 stepbrother
 stepbrothers
@@ -144444,6 +144492,7 @@ stymying
 stypsis
 stypsises
 styptic
+stypticity
 styptics
 styrax
 styraxes
@@ -157251,6 +157300,7 @@ ululations
 ulus
 ulva
 ulvas
+umami
 umangite
 umangites
 umbel
@@ -166200,6 +166250,8 @@ wheelless
 wheelman
 wheelmen
 wheels
+wheelset
+wheelsets
 wheelsman
 wheelsmen
 wheelwork
@@ -168903,6 +168955,7 @@ yurt
 yurta
 yurts
 ywis
+zaatar
 zabaglione
 zabagliones
 zabaione
@@ -169338,6 +169391,7 @@ zoospores
 zoosporic
 zoosterol
 zoosterols
+zoot
 zootechnical
 zootechnics
 zootier
