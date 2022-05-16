@@ -9715,6 +9715,7 @@ autolyzing
 automaker
 automakers
 automan
+automat
 automata
 automatable
 automate
